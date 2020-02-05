@@ -2,9 +2,9 @@
 
 # Git global config
 
-git config --global user.name 'srontala'
+git config --global user.name 'srr'
 
-git config --global user.email 'surender.rontala@gmail.com'
+git config --global user.email 'xyz@gmail.com'
 
 # Intialize local repository
 
